@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506832477 source:c:\users\miraj\desktop\c programs\leapyr\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505185650 source:c:\users\miraj\desktop\c programs\even_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
